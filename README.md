@@ -3,3 +3,6 @@
 3. Create `.env` file from `.env.example` and set TMDB_API_KEY.
 4. Start the app: `expo start`.
 5. Run tests: `npm test`.
+
+Link to video
+<a href="assets/video.mp4">Video</a>
